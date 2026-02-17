@@ -1,0 +1,67 @@
+# Layer 2 - MAC Flooding
+
+**Platform:** TryHackMe  
+**Difficulty:** Medium  
+**Date Completed:** [YYYY-MM-DD]  
+**Tags:** `networking` `layer-2` `switch-security` `mac-flooding`
+
+---
+
+## Overview
+
+[Brief description of the challenge and learning objectives]
+
+---
+
+## Objectives
+
+- [ ] Understand MAC address table functionality
+- [ ] Learn about MAC flooding attacks
+- [ ] Execute a MAC flooding attack
+- [ ] Analyze attack impact
+- [ ] Understand mitigation strategies
+
+---
+
+## Key Concepts
+
+- **MAC Flooding:** [Definition and impact]
+- **CAM Table:** [What it is and how it works]
+- **VLAN Hopping:** [Relation to this attack]
+
+---
+
+## Reconnaissance & Analysis
+
+[Add your reconnaissance steps, findings, and screenshots here]
+
+---
+
+## Exploitation Steps
+
+[Document your exploitation process]
+
+---
+
+## Results & Evidence
+
+[Screenshots and flags/proof of completion]
+
+---
+
+## Mitigation & Defense
+
+[How to prevent MAC flooding attacks]
+
+---
+
+## References
+
+- [TryHackMe Room Link](https://tryhackme.com/)
+- [IEEE 802.1Q VLAN Documentation](https://en.wikipedia.org/wiki/VLAN)
+- [Macof Documentation](https://tools.kali.org/tools/macof)
+
+---
+
+**Status:** 📝 Template / Placeholder  
+**Next Steps:** Complete the room and fill in detailed write-up
