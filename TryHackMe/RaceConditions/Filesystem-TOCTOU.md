@@ -1,8 +1,8 @@
 # Race Condition – TOCTOU (Filesystem)
 
 **Platform:** TryHackMe
-**Room:** Race Conditions
-**Lab:** anti_flag_reader
+
+
 
 ---
 
